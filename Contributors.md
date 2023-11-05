@@ -1,5 +1,6 @@
 
 # Contributors
+- [Vishal Chauhan](https://github.com/vishal354)
 - [Aliaksandr Kaptsevich](https://github.com/VeryStone69)
 - [Jitae Moon] (https://github.com/jitae-moon)
 - [Bohdan Lupyr](https://github.com/Brolupyr777)
